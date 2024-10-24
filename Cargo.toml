@@ -1,0 +1,11 @@
+[package]
+name = "jni-ext"
+description = "Miscellaneous extension traits for the jni crate"
+authors = ["Paskal Sitepu <rmnscnce@ya.ru>"]
+license = "MIT OR Apache-2.0"
+keywords = ["ffi", "jni", "java"]
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+jni = { version = "0.21" }
